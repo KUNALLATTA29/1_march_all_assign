@@ -1,0 +1,45 @@
+Q1. what is c ?
+
+answer.  C programming is considered as the base for other programming languages, that is why it is known as mother language.
+a. Mother language
+b. System programming language
+c. Procedure-oriented programming language
+d. Structured programming language
+e. Mid-level programming language
+
+
+Q2. what is datatype and variables ?
+
+answer.  In programming, data types and variables are fundamental concepts used to store and manipulate data within a program. 
+
+==> Common data types include:
+a. Integer (int): Used to store whole numbers without decimal points.
+b. Floating-point (float, double): Used to store numbers with decimal points.
+c. Character (char): Used to store individual characters, such as letters, digits, or          symbols.
+d. Boolean (bool): Used to store true/false values.
+
+==>variables:Variables are key building elements of the C programming language used to store and modify data in computer programs. A variable is a designated memory region that stores a specified data type value. Each variable has a unique identifier, its name, and a data type describing the type of data it may hold.
+
+Q3. what is operator and types ?
+
+answer.  An operator is simply a symbol that is used to perform operations. There can be many types of operations like arithmetic, logical, bitwise, etc.
+
+There are following types of operators to perform different types of operations in C language.
+
+Arithmetic Operators
+Relational Operators
+Shift Operators
+Logical Operators
+Bitwise Operators
+Ternary or Conditional Operators
+Assignment Operator
+Misc Operator
+
+Q4.  what is keywords ?
+
+answer.  Keywords in C are reserved words that have predefined meanings and are part of the C language syntax. These keywords cannot be used as variable names, function names, or any other identifiers within the program except for their intended purpose. They are used to define the structure flow and behavior of a C program.
+
+Q5. what is compiler ?
+
+answer.  When you write a C program, you use a text editor to create a file containing source code, which consists of C language statements.
+The compiler takes this source code file (.c file) as input and translates it into machine code, which can be understood and executed by the computer's hardware.
